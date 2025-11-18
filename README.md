@@ -29,12 +29,12 @@ Below is the BibTex for citing this version of the code.
 ```
 ## Description
 
-This directory contains the code for the *truncated fusion learning (TRUE)* algorithm.
+This directory contains the code for the *group simplex-based multinomial logistic regression (GSMLR)* algorithm.
 
 This project contains four folders: `data`, `results`, `src`, `scripts`.
 - `data`: include five real datasets (.Rdata file) used in the paper.
 - `src`: include the source codes (.R file).
-- `scripts`: include codes (.R file) to replicate the experiments for Figure 3 in the paper, all outputs necessary for the study can be reproduced with similar codes..
+- `scripts`: include codes (.R file) to replicate the experiments for Figure 3 in the paper, all outputs necessary for the study can be reproduced with similar codes.
 
 ## Replicating
 To get the Figures and Tables in the paper, please run the R codes in the `scripts` folder. 
@@ -43,3 +43,4 @@ To get the Figures and Tables in the paper, please run the R codes in the `scrip
 
 For support in using this software, submit an
 [issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+
