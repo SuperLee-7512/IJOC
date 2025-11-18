@@ -39,8 +39,13 @@ This project contains four folders: `data`, `results`, `src`, `scripts`.
 ## Replicating
 To get the Figures and Tables in the paper, please run the R codes in the `scripts` folder. 
 
+## Ongoing Development
+
+This code is being developed on an on-going basis at the author's [GitHub site](https://github.com/SuperLee-7512).
+
 ## Support
 
 For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+[issue](https://github.com/SuperLee-7512/IJOC).
+
 
